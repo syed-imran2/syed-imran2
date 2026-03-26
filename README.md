@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Imran.
+I'm a software developer, trying to make the world a better place by writing good code
+
+Tools and Skills I know
+Github/Git
+VS Code
+Python
