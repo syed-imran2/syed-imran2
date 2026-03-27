@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I’m an early-stage developer with strong practical exposure to frontend, backend, and system thinking.  
 I enjoy understanding **how things work internally**, not just using tools.
@@ -16,32 +16,20 @@ I believe good software is built with:
 - Clean structure
 - Thoughtful design
 
+I’m always open to collaboration, learning, and building interesting projects.
+
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-- Python
-- JavaScript
-- TypeScript
+**Languages**  
+Python | JavaScript
 
-### 🎨 Frontend
-- Vue.js
-- Vuetify
-- HTML5
-- CSS3
+**Frontend**  
+Vue.js | Vuetify | HTML | CSS
 
-### ⚙️ Backend & Data
-- PostgreSQL
-- Redis
+**Backend & Data**  
+PostgreSQL | Redis | System Design
 
-### 🧰 Tools & Workflow
-- Git & GitHub
-- VS Code
-- Linux/CLI basics
-
----
-
-## 🤝 Let's Connect
-
-I’m always open to collaboration, learning, and building interesting projects.
+**Tools**  
+Git | GitHub | VS Code
