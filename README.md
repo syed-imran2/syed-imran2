@@ -23,10 +23,10 @@ I’m always open to collaboration, learning, and building interesting projects.
 ## 🛠️ Tech Stack
 
 **Languages**  
-Python | JavaScript
+Python | JavaScript | TypeScript
 
 **Frontend**  
-Vue.js | Vuetify | HTML | CSS
+Vue.js | Vuetify | Angular 21 | HTML | CSS
 
 **Backend & Data**  
 PostgreSQL | Redis | System Design
